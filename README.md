@@ -1,3 +1,3 @@
 # login_page_test
 
-<p align="center"><img src="https://drive.google.com/file/d/1xnYnU1NAhi42LVjdQQpFf9BU1C8y7TGL/view?usp=sharing" width="250" height="444.66"/></p>
+<p align="center"><img src="https://i.imgur.com/fnZU6R4.jpg" width="250" height="444.66"/></p>
